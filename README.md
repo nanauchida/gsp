@@ -1,1 +1,1 @@
-# gsp
+# GSP is Global Strartup Project. 
